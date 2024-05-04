@@ -1,5 +1,8 @@
 How to install/use:
+	fork my repl: https://replit.com/@SkireScripts/DevmodeAPI
 	first run `Bootstrapper` and it should install the latest Aegis Release!
+	then in the settings tab input the api url and your done
+	visit https://youapi/read and it should work
 
 WARNINGS:
 	DO NOT REMOVE THE `Aegis` SHORTCUT - cause then you need to remake it :(
