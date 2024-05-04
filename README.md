@@ -8,8 +8,9 @@ vegax devmode clone
 
 version 1.2
 
-## theres a discord server in the making, when of if i release this please join
+## theres a discord server in the making, when OR if i release this
 if i get good enough at c# i will 100% release this vegax devmode clone
+
 im at a level where i dont know how to add monaco or have border radius aka pretty ass
 
 ## heres a screenshot of the current ui
