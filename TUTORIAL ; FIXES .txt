@@ -1,0 +1,7 @@
+How to install/use:
+	first run `Bootstrapper` and it should install the latest Aegis Release!
+
+WARNINGS:
+	DO NOT REMOVE THE `Aegis` SHORTCUT - cause then you need to remake it :(
+	if it failes to install please dm me @ discord - x6x_0
+	join the discord server also to report errors - when made (in making)
