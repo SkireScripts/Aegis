@@ -21,3 +21,18 @@ pretty bad rn but i just started learning c# so im gunna make this my first proj
 fr the panels/buttons are just boxy, hopefully in v1.3 i will discover border radius 
 
 but all the tutorials are +6yrs old so ima discover it naturally
+
+## Aegis api code:
+##### https://replit.com/@SkireScripts/DevmodeAPI (FORK IT)
+
+## Connection code (run on roblox)
+```lua
+getgenv().api = "https://yourapi/"
+while true do wait(.1)
+    local code = game:HttpGet(api.."read")
+    if code ~= "" then
+        runcode(code)
+        local clear = game:HttpGet(api.."clear")
+    end
+end
+```
