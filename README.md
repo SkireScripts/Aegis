@@ -16,7 +16,7 @@ im at a level where i dont know how to add monaco or have border radius aka pret
 ## heres a screenshot of the current ui
 ![N|Solid](https://media.discordapp.net/attachments/1234628120850600107/1236961045529231380/image.png?ex=6639e93e&is=663897be&hm=6c0605543c0689d1fdcd749bc91ba6eb9bdb6a7781b17186b454a8bc627a9b29&=&format=webp&quality=lossless&width=443&height=248)
 
-pretty bad rn but i just started learning c# so im gunna make this my first project, it has full function, working on ui for now (doesnt mean there isnt functions i wanna add, theres alot)
+pretty ok rn but i just started learning c# so im gunna make this my first project, it has full function, working on ui for now (doesnt mean there isnt functions i wanna add, theres alot)
 
 fr the panels/buttons are just boxy, hopefully in v1.3 i will discover border radius 
 
