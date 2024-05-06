@@ -1,4 +1,4 @@
-![N|Solid](https://media.discordapp.net/attachments/1208534228019576972/1236206868171460681/Aegis_Icon_1.png?ex=66372adc&is=6635d95c&hm=10cff39ab05973840ee008f062bd1a85b17095c4bbaebec718286913a73cd4a0&=&format=webp&quality=lossless&width=248&height=248)
+![N|Solid](https://media.discordapp.net/attachments/1234668646425559070/1236961301641822259/Aegis_Icon_1.png?ex=6639e97b&is=663897fb&hm=7dd016845e720c406fd1e1d043d2eb777dcd8d0bfc37904d00b68da96d053541&=&format=webp&quality=lossless&width=248&height=248)
 # AEGIS
 by skire
 
@@ -14,7 +14,7 @@ if i get good enough at c# i will 100% release this vegax devmode clone
 im at a level where i dont know how to add monaco or have border radius aka pretty ass
 
 ## heres a screenshot of the current ui
-![N|Solid](https://cdn.discordapp.com/attachments/1208534228019576972/1236208051674026024/image.png?ex=66372bf7&is=6635da77&hm=6fd2809736342f1b28925f2b48fa3dfd753b43b87c736a713cc3d4169c297c3c&)
+![N|Solid](https://media.discordapp.net/attachments/1234628120850600107/1236961045529231380/image.png?ex=6639e93e&is=663897be&hm=6c0605543c0689d1fdcd749bc91ba6eb9bdb6a7781b17186b454a8bc627a9b29&=&format=webp&quality=lossless&width=443&height=248)
 
 pretty bad rn but i just started learning c# so im gunna make this my first project, it has full function, working on ui for now (doesnt mean there isnt functions i wanna add, theres alot)
 
