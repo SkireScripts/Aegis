@@ -27,12 +27,13 @@ but all the tutorials are +6yrs old so ima discover it naturally
 
 ## Connection code (run on roblox)
 ```lua
-getgenv().api = "https://yourapi/"
-while true do wait(.1)
-    local code = game:HttpGet(api.."read")
+local api = "https://yourapi/";
+while true do
+    local code = game:HttpGet(api.."read");
     if code ~= "" then
-        runcode(code)
-        local clear = game:HttpGet(api.."clear")
+        loadstring(code)();
+        clear = game:HttpGet(api.."clear");
     end
+    wait();
 end
 ```
